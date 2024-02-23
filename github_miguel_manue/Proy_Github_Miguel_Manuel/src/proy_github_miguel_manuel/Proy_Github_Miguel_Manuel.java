@@ -16,6 +16,8 @@ public class Proy_Github_Miguel_Manuel {
      */
     public static void main(String[] args) {
         System.out.println("Hola soy Miguel Bascuñana Gallego");
+        
+        System.out.println("Hola soy Manuel Fuentes Torres");
     }
     
 }
